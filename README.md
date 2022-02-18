@@ -65,7 +65,7 @@ Also we wanted to make it transparent to show the inside and the thermochromic c
 ![](../images/S__4431879.jpg)
 ![](../images/S__4431891.jpg)
 
-※All the following is documented by Rei
+## ※All the following is documented by Rei
 
 4. Laser Cutting
 
