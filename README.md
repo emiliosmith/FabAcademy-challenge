@@ -57,9 +57,6 @@ This compost box can also be a demonstration or exhibition of making awareness o
 ![](/images/cut.jpg)
 ![](/images/3.jpeg)
 
-.![](/images/S__4431905.jpg)
-
-
 Based on the modeling, we made a cutting data. We made the tolerance for + 0.3 mm.
 
 # 3.Material
