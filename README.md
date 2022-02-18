@@ -1,4 +1,4 @@
-*# FabAcademy 1st Challenge Feb.15-18**
+*FabAcademy 1st Challenge Feb.15-18**
 ===============
 
 
