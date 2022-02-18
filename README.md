@@ -34,9 +34,9 @@ We wanted this compost box with these following features.
 - sieving compost
 - detect temperature change of the compost
 
-![](/images/WhatsApp Image 2022-02-15 at 22.44.11.jpeg)
+![](/images/1.jpeg)
 
-![](/images/WhatsApp Image 2022-02-16 at 11.00.10.jpeg)
+![](/images/2.jpeg)
 
 
 2.Modeling
@@ -53,7 +53,7 @@ This compost box can also be a demonstration or exhibition of making awareness o
 
 ![](/images/model.jpg)
 ![](/images/cut.jpg)
-![](/images/WhatsApp Image 2022-02-16 at 16.02.53.jpeg)
+![](/images/3.jpeg)
 
 .![](/images/S__4431905.jpg)
 
