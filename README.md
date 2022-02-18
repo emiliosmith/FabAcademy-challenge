@@ -1,6 +1,6 @@
 # FabAcademy-challenge
 
-by [Rei Terauchi](https://terauchi-rei.github.io/mdefweb/) & Emilio Smith
+by [Rei Terauchi](https://terauchi-rei.github.io/mdefweb/) & [Emilio Smith](https://emiliosmith.github.io/mdef_emilio2/)
 
 ## Group
 We formed a group based on the design intervention. Rei and Emilio were working on the compost intervention, so we easily came to this idea of making part of our intervention related to making a compost toolkit.
