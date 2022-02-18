@@ -34,6 +34,7 @@ We wanted this compost box with these following features.
 - people can put food waste
 - sieving compost
 - detect temperature change of the compost
+- scaling how much compost decreased
 
 ![](/images/1.jpeg)
 
