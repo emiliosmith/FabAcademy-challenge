@@ -80,7 +80,7 @@ I tested the joints with acrylic to see how much tolerance should. Then I got to
 First the parameter was too weak, it did not cut through the board. Then changed the parameter keeping the same power but slower speed. Then it finally cut through.
 
 ![](/images/S__4431880.jpg)
-![](/images/S__4431885.jpg)
+![](/images/S__4431887.jpg)
 
 I did the preassembly to make sure if it all fits.
 
