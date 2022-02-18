@@ -114,7 +114,6 @@ I dried it completely and now it is ready to assemble!
 And I put some compost on the top layer. Some soil that is ready to use goes to the bottom
 .![](/images/S__4431902.jpg)
 .![](/images/S__4431901.jpg)
-.![](/images/S__4431905.jpg)
 
 Now it is ready to use!
 
