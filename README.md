@@ -10,7 +10,10 @@ First Jeremy was also in the group, but eventually separated to do the different
 
 ## Initial Idea
 When we started designing, we also had reviews from Guillem, Kate and alumni Pablo for the design intervention and that influenced us to work on this challenge as a prototype for intervention.
-Since we talked with them, we wanted to develop a compost toolkit sensor that detects some information about the status of the compost such as temperature, humidity, ph, etc.. We discussed focusing on the one feature now to understand how it can be interactive even without using electric sensors, but in an analog way.  Gillem advised us to use thermochromic paint which can change its color with the temperature to see how warm the compost gets inside the box. Also to show that and what kind of food waste is thrown away is important because it can lead to the consciousness of waste.
+
+Since we talked with them, we wanted to develop a compost toolkit sensor that detects some information about the status of the compost such as temperature, humidity, ph, etc.. We discussed focusing on the one feature now to understand how it can be interactive even without using electric sensors, but in an analog way.  
+
+Gillem advised us to use thermochromic paint which can change its color with the temperature to see how warm the compost gets inside the box. Also to show that and what kind of food waste is thrown away is important because it can lead to the consciousness of waste.
 
 
 ![](/images/refs.jpg)
@@ -22,14 +25,17 @@ Based on this concept, we decided to build a transparent compost box that has tw
 1.Sketch
 We first drew a sketch, like a really simple one with adding the features.
 We wanted this compost box with these following features.
--with a Lid to avoid the smell
--showing the process
--air can come in
--people can look what is inside
--people can put food waste
--sieving compost
--detect temperature change of the compost
+
+- with a Lid to avoid the smell
+- showing the process
+- air can come in
+- people can look what is inside
+- people can put food waste
+- sieving compost
+- detect temperature change of the compost
+
 ![](/images/WhatsApp Image 2022-02-15 at 22.44.11.jpeg)
+
 ![](/images/WhatsApp Image 2022-02-16 at 11.00.10.jpeg)
 
 
