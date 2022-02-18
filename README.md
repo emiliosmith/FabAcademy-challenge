@@ -123,9 +123,19 @@ Now it is ready to use!
 ![](/images/composting.gif)
 ![](/images/Xz4PSiAFdNn4fcF1LeF21645193968-1645194045.gif)
 
+
+## Learnings 
+
+-When making cutting data, it is always important to test cut the joints first 
+-When cutting with laser, it is always important to test cut with the parameter
+-Materials tend to vary the thickness even in the same piece of board
+-Acrylic is hard to assemble with finger joints that it sometimes cracks the edge
+-Designing parametrically is necessary for the  joint design
+
+
 ## Next Step
 
-Now I place it on the corner of our class room. So anyone can throw away their food waste from the hole on the lid and mix it. It can be interactive as it changes the color on the back part which indicates how active this compost is because active compost increases temperature.
+Now I placed it on the corner of our class room. So anyone can throw away their food waste from the hole on the lid and mix it with the shovel. It can be interactive as it changes the color on the back part which indicates how active this compost is because active compost increases temperature.
 I also want to give it to a compost begginer to test how these features can be effective for them to start doing a compose -these features make it easier? Interactive? Understandable? Fun?
 
 Based on the reflections to the test, I will develop a new version of a compost box.
