@@ -15,7 +15,7 @@ Since we talked with them, we wanted to develop a compost toolkit sensor that de
 
 Gillem advised us to use thermochromic paint which can change its color with the temperature to see how warm the compost gets inside the box. Also to show that and what kind of food waste is thrown away is important because it can lead to the consciousness of waste.
 
-** We decided to make a transparent compost box for food waste consiousness and making the composting process to be seen **
+**We decided to make a transparent compost box for food waste consiousness and making the composting process to be seen**
 
 ![](/images/refs.jpg)
 ![](/images/guillem.jpg)
