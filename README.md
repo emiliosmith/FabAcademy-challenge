@@ -118,6 +118,9 @@ And I put some compost on the top layer. Some soil that is ready to use goes to 
 
 Now it is ready to use!
 
+![](/images/composting.gif)
+![](/images/Xz4PSiAFdNn4fcF1LeF21645193968-1645194045.gif)
+
 ## Next Step
 
 Now I place it on the corner of our class room. So anyone can throw away their food waste from the hole on the lid and mix it. It can be interactive as it changes the color on the back part which indicates how active this compost is because active compost increases temperature.
