@@ -15,6 +15,8 @@ Since we talked with them, we wanted to develop a compost toolkit sensor that de
 ![Screenshot of work space on miro](Images/miro.jpg)
 
 ![](../images/refs.jpg)
+
+![](/images/refs.jpg)
 ![](../images/guillem.jpg)
 
 ## Design Process
