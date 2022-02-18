@@ -43,7 +43,7 @@ We wanted this compost box with these following features.
 We used Rhinoceros to model. We finalized the design by researching some references.
 
 ![](/images/bio.jpg)
-[Bio Compostera Digital]http://www.fablab.uchile.cl/proyectos/455/biocompostera-digital/)
+[Bio Compostera Digital](http://www.fablab.uchile.cl/proyectos/455/biocompostera-digital/)
 ![](/images/layer.jpg)
 
 This is how we finished up designing. As we knew Emilio would leave earlier, so we wanted to keep it simple for Rei to be able to  manage everything.
@@ -123,4 +123,4 @@ I also want to give it to a compost begginer to test how these features can be e
 Based on the reflections to the test, I will develop a new version of a compost box.
 
 .![](/images/74A214FD-1E8B-47FC-B62E-B4A079C6D372.jpg)
-.![](https://imgur.com/EAzJUIK)
+.![](/images/619CDB0E-4B08-4631-9270-84E70D4A134C.jpg)
