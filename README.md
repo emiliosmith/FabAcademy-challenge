@@ -64,8 +64,11 @@ Based on the modeling, we made a cutting data. We made the tolerance for + 0.3 m
 Also we wanted to make it transparent to show the inside and the thermochromic color would turn transparent with the heat, so we decided to use acrylic. We actually wanted to use plywood for the back part of the box in order to paint, but there was no plywood that has the same thickness.
 
 -3mm Acrylic Board 600x1000mm
+
 -thermochromic paint
+
 -soil
+
 -foodwaste
 
 ![](/images/S__4431879.jpg)
