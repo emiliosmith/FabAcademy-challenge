@@ -22,7 +22,8 @@ Gillem advised us to use thermochromic paint which can change its color with the
 ## Design Process
 Based on this concept, we decided to build a transparent compost box that has two layers and also has thermochromic features. It is designed for a compost beginner that wants to see what is going on inside and wants to make sure the temperature which indicates the status of compost.
 
-1.Sketch
+# 1.Sketch
+
 We first drew a sketch, like a really simple one with adding the features.
 We wanted this compost box with these following features.
 
@@ -39,7 +40,8 @@ We wanted this compost box with these following features.
 ![](/images/2.jpeg)
 
 
-2.Modeling
+# 2.Modeling
+
 We used Rhinoceros to model. We finalized the design by researching some references.
 
 ![](/images/bio.jpg)
@@ -60,7 +62,7 @@ This compost box can also be a demonstration or exhibition of making awareness o
 
 Based on the modeling, we made a cutting data. We made the tolerance for + 0.3 mm.
 
-3.Material
+# 3.Material
 
 Also we wanted to make it transparent to show the inside and the thermochromic color would turn transparent with the heat, so we decided to use acrylic. We actually wanted to use plywood for the back part of the box in order to paint, but there was no plywood that has the same thickness.
 
@@ -74,7 +76,7 @@ Also we wanted to make it transparent to show the inside and the thermochromic c
 
 ## ※All the following is documented by Rei
 
-4. Laser Cutting
+# 4. Laser Cutting
 
 I tested the joints with acrylic to see how much tolerance should. Then I got to know that it should be less than the thickness of the material because the laser burns it. So I changed the tolerance to -0.1mm.
 
@@ -90,7 +92,7 @@ I did the preassembly to make sure if it all fits.
 
 It was fine so I then moved to the paint.
 
-5. Paint
+# 5. Paint
 
 I used thermochromic paint I bought to apply on the back part of the box. I painted with a brush,(it actually recommended airbrush or spray which I don’t have)
 
@@ -106,7 +108,7 @@ It turns transparent when it attaches to something that is 26-31 degrees.
 
 I dried it completely and now it is ready to assemble!
 
-6. Assembly
+# 6. Assembly
  I assembled it using a rubber hammer to completely fit the joints.
 And I put some compost on the top layer. Some soil that is ready to use goes to the bottom
 .![](/images/S__4431902.jpg)
